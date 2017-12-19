@@ -1,0 +1,18 @@
+[19-Oct-2017 04:02:46 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'u354736680_rgb'@'localhost' (using password: YES) in /home/appceftr/public_html/Admin_appc2018/Th/db/database.php on line 3
+[19-Oct-2017 04:02:46 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/appceftr/public_html/Admin_appc2018/Th/db/database.php on line 5
+[19-Oct-2017 04:07:29 America/Chicago] PHP Notice:  Undefined index: email in /home/appceftr/public_html/Admin_appc2018/Th/Th_login_go.php on line 4
+[19-Oct-2017 04:07:29 America/Chicago] PHP Notice:  Undefined index: custPassword in /home/appceftr/public_html/Admin_appc2018/Th/Th_login_go.php on line 5
+[19-Oct-2017 04:08:27 America/Chicago] PHP Notice:  Undefined variable: count_cust in /home/appceftr/public_html/Admin_appc2018/Th/cus_page.php on line 573
+[19-Oct-2017 04:08:35 America/Chicago] PHP Notice:  Undefined variable: row2 in /home/appceftr/public_html/Admin_appc2018/Th/inser_card.php on line 10
+[19-Oct-2017 04:44:55 America/Chicago] PHP Notice:  Undefined variable: row2 in /home/appceftr/public_html/Admin_appc2018/Th/inser_card.php on line 10
+[19-Oct-2017 04:47:26 America/Chicago] PHP Notice:  Undefined variable: row2 in /home/appceftr/public_html/Admin_appc2018/Th/inser_card.php on line 10
+[19-Oct-2017 05:45:29 America/Chicago] PHP Notice:  Undefined variable: row2 in /home/appceftr/public_html/Admin_appc2018/Th/inser_card.php on line 10
+[19-Oct-2017 05:58:51 America/Chicago] PHP Notice:  Undefined variable: row2 in /home/appceftr/public_html/Admin_appc2018/Th/inser_card.php on line 10
+[19-Oct-2017 05:59:33 America/Chicago] PHP Notice:  Undefined index: Workshop in /home/appceftr/public_html/Admin_appc2018/Th/ENG_success_re.php on line 46
+[19-Oct-2017 05:59:47 America/Chicago] PHP Notice:  Undefined variable: row2 in /home/appceftr/public_html/Admin_appc2018/Th/inser_card.php on line 10
+[19-Oct-2017 06:00:14 America/Chicago] PHP Notice:  Undefined index: Mobile in /home/appceftr/public_html/Admin_appc2018/Th/insert_re_2.php on line 17
+[19-Oct-2017 06:00:14 America/Chicago] PHP Notice:  Undefined index: Payment_Credit in /home/appceftr/public_html/Admin_appc2018/Th/insert_re_2.php on line 23
+[19-Oct-2017 06:00:14 America/Chicago] PHP Notice:  Undefined index: Rate_USD in /home/appceftr/public_html/Admin_appc2018/Th/insert_re_2.php on line 24
+[19-Oct-2017 06:00:14 America/Chicago] PHP Notice:  Undefined index: Payment in /home/appceftr/public_html/Admin_appc2018/Th/insert_re_2.php on line 25
+[19-Oct-2017 06:00:14 America/Chicago] PHP Notice:  Undefined index: food in /home/appceftr/public_html/Admin_appc2018/Th/insert_re_2.php on line 28
+[19-Oct-2017 06:00:14 America/Chicago] PHP Notice:  Undefined variable: Tpye_Reg in /home/appceftr/public_html/Admin_appc2018/Th/insert_re_2.php on line 44
